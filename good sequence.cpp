@@ -1,4 +1,5 @@
 // C++ program to print words in a sentence
+//https://atcoder.jp/contests/arc087/tasks/arc087_a
 #include <bits/stdc++.h>
 using namespace std;
 int main()
